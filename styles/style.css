@@ -1,0 +1,22 @@
+
+
+div {border: solid 1px; padding: 5px;}
+
+.message {color: red;}
+
+.personneconnecte {background-color: lightblue; position: absolute; top: 2px; right: 2px;}
+
+.menu {
+    position: absolute;
+    width: 20%;
+    top: 2px;
+    left: 2px;
+}
+
+.listeMessages {
+    margin-left: 22%;
+}
+
+.contenu {
+    margin-left: 22%;
+}

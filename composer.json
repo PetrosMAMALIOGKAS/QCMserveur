@@ -1,0 +1,22 @@
+{
+    "name": "petros/nfa021bis",
+    "description": "The Qcm Project",
+    "authors": [
+        {
+            "name": "Petros MAMALIOGKAS",
+            "email": "petros.mamaliogas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Code\\": "code"
+        },
+        "files": [
+          "code/general.php",
+          "code/CodesBDD.php",
+          "code/messages.php"          
+        ]
+
+    }
+}
